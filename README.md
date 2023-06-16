@@ -1,7 +1,7 @@
 # Mention API V2 Documentation
 
 ## Base URL
-All API endpoints are relative to the base URL: `https://domain.com/api/v2/`
+All API endpoints are relative to the base URL: `https://mention.earth/api/v2/`
 
 ## Authentication
 To access the API, you need to include the `clientKey` parameter in your requests. The `clientKey` should be provided as a query parameter.
